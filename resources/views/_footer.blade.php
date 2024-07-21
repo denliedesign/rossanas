@@ -24,8 +24,8 @@
             <h5 class="text-uppercase mb-0" style="letter-spacing: 2px; font-weight: 600;">HOURS</h5>
         </div>
         <p>
-            Sunday 10-2
-            <br>Monday 4-9
+            Sunday closed
+            <br>Monday closed
             <br>Tuesday closed
             <br>Wednesday 4-9
             <br> Thursday 4-9
