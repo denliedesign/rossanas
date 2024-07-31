@@ -46,7 +46,7 @@
             <img src="/images/dinner-1.jpg" alt="food">
             <img src="/images/dinner-2.jpg" alt="food">
             <img src="/images/dinner-4.jpg" alt="food">
-            <img src="/images/dinner-5.jpg" alt="food">
+            <img src="/images/dinner-5.JPG" alt="food">
             <img src="/images/guests-1.jpg" alt="food">
         </div>
     </section>
