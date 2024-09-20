@@ -21,9 +21,9 @@
     </head>
     <body>
 
-    <div class="py-3" style="background: #f0f0f0;">
-        <p class="text-center py-0 my-0">Our <strong>Grand Opening Extravaganza</strong> will take place Saturday, Sept 7 and our hours will be 4-11pm for that day. Ribbon cutting is at 4pm!</p>
-    </div>
+{{--    <div class="py-3" style="background: #f0f0f0;">--}}
+{{--        <p class="text-center py-0 my-0">Our <strong>Grand Opening Extravaganza</strong> will take place Saturday, Sept 7 and our hours will be 4-11pm for that day. Ribbon cutting is at 4pm!</p>--}}
+{{--    </div>--}}
     @yield('content')
 {{--    @include('_footer')--}}
 

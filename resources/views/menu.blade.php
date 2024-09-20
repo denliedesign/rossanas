@@ -11,7 +11,7 @@
             <div class="shadow rounded plate">
                 <div class="row row-cols-1 d-flex justify-content-center">
                     <img src="/images/menu.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
-                    <img src="/images/menu-features.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
+                    <img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
                     <img src="/images/menu-happy-hour.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
                     <img src="/images/menu-cocktails.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
                     <img src="/images/menu-wine.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">

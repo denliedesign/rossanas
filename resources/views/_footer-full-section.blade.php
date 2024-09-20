@@ -18,6 +18,7 @@
                 <p>
                     <a class="d-flex align-items-center" style="text-decoration: none; color: black; font-size: 30px; width: max-content;"><ion-icon name="location"></ion-icon>&nbsp;<span style="font-size: 17px;">107 E Main St SE, Caledonia, MI</span></a>
                     <a class="d-flex align-items-center" style="text-decoration: none; color: black; font-size: 30px; width: max-content;"><ion-icon name="mail"></ion-icon>&nbsp;<span style="font-size: 17px;">eat@rossanastable.com</span></a>
+                    <a class="d-flex align-items-center" style="text-decoration: none; color: black; font-size: 30px; width: max-content;"><ion-icon name="call"></ion-icon>&nbsp;<span style="font-size: 17px;">616-275-1311</span></a>
                 </p>
             </div>
             <div class="col-sm plate mx-3 px-4 py-3 rounded shadow">
