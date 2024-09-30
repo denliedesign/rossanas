@@ -77,11 +77,11 @@ p, a {
 }
 
 .fold {
-    background-image: url("/images/risotto.jpg");
+    background-image: url("/images/rossanas-table.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
-    background-position: center;
+    background-position: 75% 50%;
     height: 100%;
     width: 100%;
 }
