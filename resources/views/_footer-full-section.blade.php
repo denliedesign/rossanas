@@ -28,7 +28,7 @@
                 <p>
                     Sunday closed
                     <br>Monday 4-9
-                    <br>Tuesday 4-9
+                    <br>Tuesday closed
                     <br>Wednesday 4-9
                     <br>Thursday 4-9
                     <br>Friday 4-10
