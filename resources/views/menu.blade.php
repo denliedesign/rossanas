@@ -9,13 +9,34 @@
         <div class="symbol-pattern"></div>
         <div class="container">
             <div class="shadow rounded plate">
-                <div class="row row-cols-1 d-flex justify-content-center">
-                    <img src="/images/menu.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
-                    <img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
-                    <img src="/images/menu-happy-hour.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
-                    <img src="/images/menu-cocktails.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
-                    <img src="/images/menu-wine.png" alt="menu" class="img-fluid" style="height: 100%; width: auto;">
+                <div class="d-flex justify-content-around py-3">
+                    <a class="text-capitalize text-decoration-none" href="#lunch">lunch menu</a>
+                    <a class="text-capitalize text-decoration-none" href="#dinner">dinner menu</a>
+                    <a class="text-capitalize text-decoration-none" href="#drink">drink menu</a>
                 </div>
+                <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">
+                    Lunch Menu
+                </h3>
+            <div id="lunch" class="d-flex justify-content-center">
+                <div><img src="/images/menu-lunch.png" alt="menu" class="img-fluid" style=""></div>
+            </div>
+                <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">
+                    Dinner Menu
+                </h3>
+            <div id="dinner" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+                <div class="col"><img src="/images/menu-dinner.png" alt="menu" class="img-fluid" style=""></div>
+                <div class="col"><img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style=""></div>
+            </div>
+                <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">
+                    Drink Menu
+                </h3>
+            <div id="drink" class="d-flex justify-content-center">
+                <div><img src="/images/menu-happy-hour.png" alt="menu" class="img-fluid" style=""></div>
+            </div>
+            <div id="drink-2" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+                <div class="col"><img src="/images/menu-cocktails.png" alt="menu" class="img-fluid" style=""></div>
+                <div class="col"><img src="/images/menu-wine.png" alt="menu" class="img-fluid" style=""></div>
+            </div>
             </div>
 {{--            <div class="row mt-5">--}}
 {{--                <div class="col-1"></div>--}}
