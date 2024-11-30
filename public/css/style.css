@@ -224,6 +224,10 @@ p, a {
     .gallery {
         column-count: 1; /* Single column on mobile devices */
     }
+
+    .fold-nav {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 576px) {
@@ -234,5 +238,9 @@ p, a {
 
     .gallery img {
         margin-bottom: 5px; /* Reduce space below each image */
+    }
+
+    .fold-nav {
+        font-size: 14px;
     }
 }
