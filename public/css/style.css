@@ -198,8 +198,9 @@ p, a {
 .brand-button {
     background: #C7A25F;
     color: black;
-    padding: 5px 20px;
+    padding: 3px 9px;
     transition: 0.8s background ease;
+    white-space: nowrap;
 }
 
 .brand-button:hover {
