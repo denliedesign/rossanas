@@ -32,6 +32,7 @@
         </div>
     </section>
 
+
 {{--<div class="d-flex justify-content-start my-2">--}}
 {{--    <div class="background-red text-center text-white px-3 py-2 shadow rounded" style="z-index: 2;">--}}
 {{--        Menu--}}

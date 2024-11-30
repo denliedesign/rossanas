@@ -195,6 +195,17 @@ p, a {
     margin-bottom: 10px; /* Space below each image */
 }
 
+.brand-button {
+    background: #C7A25F;
+    color: black;
+    padding: 5px 20px;
+    transition: 0.8s background ease;
+}
+
+.brand-button:hover {
+    background: #E6C890;
+}
+
 /* Responsive adjustments */
 @media (max-width: 1200px) {
     .gallery {
