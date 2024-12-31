@@ -23,9 +23,9 @@
                 <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">
                     Dinner Menu
                 </h3>
-            <div id="dinner" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+            <div id="dinner" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-1">
                 <div class="col"><img src="/images/menu-dinner.png" alt="menu" class="img-fluid" style=""></div>
-                <div class="col"><img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style=""></div>
+{{--                <div class="col"><img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style=""></div>--}}
             </div>
                 <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">
                     Drink Menu
