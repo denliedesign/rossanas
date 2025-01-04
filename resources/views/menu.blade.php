@@ -11,8 +11,9 @@
             <div class="shadow rounded plate">
                 <div class="d-flex justify-content-around py-3">
                     <a class="text-capitalize text-decoration-none" href="#feature">feature menu</a>
-                    <a class="text-capitalize text-decoration-none" href="#lunch">lunch menu</a>
-                    <a class="text-capitalize text-decoration-none" href="#dinner">dinner menu</a>
+                    <a class="text-capitalize text-decoration-none" href="#main">menu</a>
+{{--                    <a class="text-capitalize text-decoration-none" href="#lunch">lunch menu</a>--}}
+{{--                    <a class="text-capitalize text-decoration-none" href="#dinner">dinner menu</a>--}}
                     <a class="text-capitalize text-decoration-none" href="#drink">drink menu</a>
                     <a class="text-capitalize text-decoration-none" href="#kids">kids menu</a>
                     <a class="text-capitalize text-decoration-none" href="#dessert">dessert menu</a>
@@ -29,21 +30,29 @@
                 <hr>
 
                 <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">
-                    Lunch Menu
+                    Menu
                 </h3>
-            <div id="lunch" class="d-flex justify-content-center">
-                <div><img src="/images/menu-lunch.png" alt="menu" class="img-fluid" style=""></div>
-            </div>
+                <div id="main" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-1">
+                    <div class="col d-flex justify-content-center"><img src="/images/menu-jan-main-menu.jpg" alt="menu" class="img-fluid" style=""></div>
+                    {{--                <div class="col"><img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style=""></div>--}}
+                </div>
 
-                <hr>
+{{--                <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">--}}
+{{--                    Lunch Menu--}}
+{{--                </h3>--}}
+{{--            <div id="lunch" class="d-flex justify-content-center">--}}
+{{--                <div><img src="/images/menu-lunch.png" alt="menu" class="img-fluid" style=""></div>--}}
+{{--            </div>--}}
 
-                <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">
-                    Dinner Menu
-                </h3>
-            <div id="dinner" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-1">
-                <div class="col d-flex justify-content-center"><img src="/images/menu-dinner.png" alt="menu" class="img-fluid" style=""></div>
+{{--                <hr>--}}
+
+{{--                <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">--}}
+{{--                    Dinner Menu--}}
+{{--                </h3>--}}
+{{--            <div id="dinner" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-1">--}}
+{{--                <div class="col d-flex justify-content-center"><img src="/images/menu-dinner.png" alt="menu" class="img-fluid" style=""></div>--}}
 {{--                <div class="col"><img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style=""></div>--}}
-            </div>
+{{--            </div>--}}
 
                 <hr>
 
