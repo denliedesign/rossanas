@@ -33,7 +33,7 @@
                     Menu
                 </h3>
                 <div id="main" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-1">
-                    <div class="col d-flex justify-content-center"><img src="/images/menu-jan-main-menu.jpg" alt="menu" class="img-fluid" style=""></div>
+                    <div class="col d-flex justify-content-center"><img src="/images/menu-feb-main-menu.jpg" alt="menu" class="img-fluid" style=""></div>
                     {{--                <div class="col"><img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style=""></div>--}}
                 </div>
 
@@ -63,7 +63,7 @@
                 <div><img src="/images/menu-jan-happy-hour.jpg" alt="menu" class="img-fluid" style=""></div>
             </div>
             <div id="drink-2" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                <div class="col"><img src="/images/menu-jan-cocktails.jpg" alt="menu" class="img-fluid" style=""></div>
+                <div class="col"><img src="/images/menu-feb-cocktails.jpg" alt="menu" class="img-fluid" style=""></div>
                 <div class="col"><img src="/images/menu-jan-wine.jpg" alt="menu" class="img-fluid" style=""></div>
             </div>
 
