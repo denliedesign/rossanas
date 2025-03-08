@@ -32,7 +32,7 @@
             <br>Wednesday 4-9
             <br>Thursday 4-9
             <br>Friday 4-10
-            <br>Saturday 11-10
+            <br>Saturday 2-10
         </p>
     </div>
 </div>
