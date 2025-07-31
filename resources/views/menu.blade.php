@@ -33,8 +33,11 @@
                     Menu
                 </h3>
                 <div id="main" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-1">
-                    <div class="col d-flex justify-content-center"><img src="/images/menu-7-19-25.jpg" alt="menu" class="img-fluid" style=""></div>
+                    <div class="col d-flex justify-content-center"><img src="/images/menu-7-31-25.png" alt="menu" class="img-fluid" style=""></div>
                     {{--                <div class="col"><img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style=""></div>--}}
+                </div>
+                <div>
+                    <img src="/images/happy-hour-7-31-25.png" class="img-fluid" alt="">
                 </div>
 
 {{--                <h3 class="text-center pt-5 pb-3 text-uppercase" style="letter-spacing: 2px; font-weight: 600;">--}}
