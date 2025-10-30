@@ -33,7 +33,7 @@
                     Menu
                 </h3>
                 <div id="main" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-1">
-                    <div class="col d-flex justify-content-center"><img src="/images/menu-10-9-25.png" alt="menu" class="img-fluid" style=""></div>
+                    <div class="col d-flex justify-content-center"><img src="/images/menu-10-30-25.png" alt="menu" class="img-fluid" style=""></div>
                     {{--                <div class="col"><img src="/images/menu-features-9-20-24.png" alt="menu" class="img-fluid" style=""></div>--}}
                 </div>
                 <div>
